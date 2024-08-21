@@ -1,0 +1,46 @@
+.perguntas-bg {
+  background-color: #000;
+}
+
+.perguntas {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.perguntas h2 {
+  color: #fff;
+  margin-bottom: 120px;
+  margin-top: 60px;
+  margin-left: 60px;
+  font-size: 2.5rem;
+}
+
+.perguntas dl > div {
+  padding: 20px;
+  border-radius: 4px;
+  margin-left: 120px;
+  margin-top: 40px;
+  background-color: #111;
+}
+
+.perguntas dt {
+  gap: 8px;
+  color: #b89f5d;
+  font-size: 1.5rem;
+}
+
+.perguntas dd {
+  padding-left: 20px;
+  margin-top: 16px;
+  max-width: 80ch;
+  color: #b2b2b2;
+  font-size: 1.25rem;
+}
+
+.container {
+  box-sizing: border-box;
+  max-width: 1200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 60px;
+}
